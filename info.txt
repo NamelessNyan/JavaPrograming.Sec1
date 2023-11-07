@@ -1,0 +1,5 @@
+Student_ID : 2313110484
+Student_Name : Poolyawat Maitrchit
+Major : IT
+Level : Freshman
+Faculty : Information Technology
